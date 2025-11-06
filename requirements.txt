@@ -1,0 +1,4 @@
+gigachat==0.1.40
+python-dotenv==1.0.1
+pyTelegramBotAPI==4.15.2
+yandex-cloud-ml-sdk==1.0.0 

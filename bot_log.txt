@@ -1,0 +1,4 @@
+2025-06-29 07:12:19,524 - __main__ - INFO - Бот запущен...
+2025-06-29 07:17:01,532 - httpx - INFO - HTTP Request: POST https://ngw.devices.sberbank.ru:9443/api/v2/oauth "HTTP/1.1 200 OK"
+2025-06-29 07:17:02,470 - httpx - INFO - HTTP Request: POST https://gigachat.devices.sberbank.ru/api/v1/chat/completions "HTTP/1.1 200 OK"
+2025-06-29 07:17:51,596 - httpx - INFO - HTTP Request: POST https://gigachat.devices.sberbank.ru/api/v1/chat/completions "HTTP/1.1 200 OK"
